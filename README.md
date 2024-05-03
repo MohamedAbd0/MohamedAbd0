@@ -1,5 +1,4 @@
 ### Hi there 👋
 
 ### Senior Flutter Developer
-I am interested in the flutter framework for 4 years, and I study a master of computer science in the faculty of computer & information sciences at Mansoura university.
-
+I am a software engineer with 6 years of experience, interested in mobile applications for more than 5 years, studying for a master's degree in computer science in blockchain and digital twins.
