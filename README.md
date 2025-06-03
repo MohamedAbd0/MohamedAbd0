@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-Senior Flutter Developer with **6+ years** of software engineering experience, specializing in **cross-platform mobile applications**, **UAE government services integration**, and **Web3/blockchain** solutions. Currently pursuing a Master's degree while working as a Senior Flutter Developer at **Dscale.io** in Dubai, UAE.
+Senior Flutter Developer with **6+ years** of software engineering experience, specializing in **cross-platform mobile applications**, **UAE government services integration**, Currently pursuing a Master's degree while working as a Senior Flutter Developer at **Dscale.io** in Dubai, UAE.
 
 ### 🎯 Quick Stats
 - 🔥 **14K+ LinkedIn followers** - Thought leader in Flutter community
