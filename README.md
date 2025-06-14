@@ -37,8 +37,6 @@ Senior Flutter Developer with **6+ years** of software engineering experience, s
 ### 🌐 Backend & Full-Stack
 ![ASP.NET Core](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ⚡ Specialized Technologies
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
@@ -88,8 +86,8 @@ Senior Flutter Developer with **6+ years** of software engineering experience, s
   - 🆔 Implemented **Emirates ID reader integration** using PapService
   - 🎥 Built telemedicine features with **Agora** and **AWS** integration
 
-- **Senior Flutter Developer (Lead)** @ **GoSports Network** *(Jan 2022 - Sep 2023)*
-  - 👨‍💼 Led Flutter development team for sports management platform
+- **Senior Flutter Developer ** @ **GoSports Network** *(Jan 2022 - Sep 2023)*
+  - 👨‍💼 Flutter development team for sports management platform
   - 💳 Developed subscription management system with **Stripe Gateway**
   - 🏆 Mentored junior developers and established best practices
 
@@ -151,7 +149,7 @@ const expertise = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamed-abdo95)
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium)](https://medium.com/@mohamed-abdo)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed_abdo95@outlook.com)
 
 </div>
 
