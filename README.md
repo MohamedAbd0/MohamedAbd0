@@ -15,15 +15,19 @@
 
 ## 🚀 About Me
 
-Senior Flutter Developer with **6+ years** of software engineering experience, specializing in **cross-platform mobile applications**, **UAE government services integration**, Currently pursuing a Master's degree while working as a Senior Flutter Developer at **Dscale.io** in Dubai, UAE.
+𝗦𝗲𝗻𝗶𝗼𝗿 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘄𝗶𝘁𝗵 𝟲+ 𝗬𝗲𝗮𝗿𝘀 𝗼𝗳 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 | 𝗣𝘂𝗯.𝗱𝗲𝘃 𝗣𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗿 | 𝗪𝗲𝗯𝟯 & 𝗕𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 💙🚀
 
-### 🎯 Quick Stats
-- 🔥 **14K+ LinkedIn followers** - Thought leader in Flutter community
-- 📦 **Verified pub.dev publisher** with **8 published packages**
-- ⭐ **223 GitHub stars** across **137 repositories**
-- 🏆 **Arctic Code Vault Contributor** - Code preserved for future generations
-- ✍️ **260+ Medium followers** with popular technical articles
-- 🏅 **GitHub Developer Program Member**
+Passionate about building scalable, secure, and high-performance mobile applications using Flutter and Dart. I specialize in crafting robust, cross-platform solutions with rich UI/UX, real-time features, and deep backend integrations.
+
+Currently working at Dscale.io (Dubai, UAE) as a Senior Flutter Developer, contributing to fintech, e-commerce, and UAE government-integrated platforms like UAE Pass, Emirates ID, and Stripe.
+
+My tech stack includes Flutter, Dart, Firebase, native SDKs (Kotlin, Swift), and backend technologies (Node.js, ASP.NET Core). I’m also exploring Ethereum, Solidity, and Web3 for decentralized apps.
+
+- 📦 Verified pub.dev publisher with 10+ open-source Flutter packages
+- ✍️ Technical writer on Medium with 260+ followers
+- ⭐ 200+ GitHub stars across 160+ repositories
+- 🏆 Arctic Code Vault Contributor
+- 🧠 Pursuing a Master’s in Digital Twins & Blockchain
 
 ## 🛠️ Tech Stack
 
